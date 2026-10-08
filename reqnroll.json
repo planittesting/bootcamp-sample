@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.reqnroll.net/reqnroll-config-latest.json",
+
+  "formatters": {
+    "html": {
+      "outputFilePath": "../../../Reports/reqnroll_report.html"
+    }
+  },
+
+  "bindingAssemblies": [
+  ]
+}

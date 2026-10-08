@@ -1,0 +1,46 @@
+# Build output
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Test and coverage output
+TestResults/
+*.trx
+TestResult.xml
+TestResult-*.xml
+nunit-results*.xml
+*.coverage
+*.coveragexml
+coverage/
+
+# Playwright artifacts
+playwright-report/
+
+# Reqnroll / generated reports
+Reports/
+
+# NuGet (local cache/work artifacts)
+packages/
+*.nupkg
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
